@@ -1,0 +1,45 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+    margin-top: 6em;
+   
+}
+
+p{ display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    
+    border: 2px solid black;
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    margin: auto;
+    font-weight: 600;
+    font-size: 1em;
+}
+
+
+
+#p1{
+    background-color: white;
+    text-align: center;
+     font-weight: bold;
+     font-size: 1.3em;
+     
+     
+    /* // margin: auto; */
+}
+#p2{
+    background-color:aqua;
+    color: white;
+}
+#p3{
+    background-color: yellow;
+    color: white;
+}
+
+#p4{
+    background-color: pink;
+    color: white;
+}
