@@ -10,7 +10,7 @@ $(document).ready(function(){
         $("#p4").show();
       });
       $("#p4").click(function(){
-        $("body").css("background-image", "url(img/wallpaper.jpg)");
+        $("body").css("background-image", "url(img/wallpaper2.jpg)");
         $("#p2, #p3, #p4").text("Happy Birthday");
       });
   });
