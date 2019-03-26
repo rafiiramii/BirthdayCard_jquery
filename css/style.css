@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    margin-top: 6em;
+}
+
+p{
+    padding-top: 0.6em;
+    border: 1px solid ;
+    width: 200px;
+    height: 30px;
+    
+}
