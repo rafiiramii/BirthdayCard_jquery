@@ -10,7 +10,7 @@ p{ display: flex;
     align-content: center;
     flex-direction: column;
     
-    border: 2px solid black;
+    border: 1.6px solid rgba(0, 0, 0, 0.644);
     width: 200px;
     height: 30px;
     text-align: center;
